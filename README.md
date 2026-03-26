@@ -50,21 +50,6 @@ FaceGuard/
 ### 🔧 Prerequisites
 - Python 3.8+
 - Webcam
-
-### 📦 Install Dependencies
-
-```bash
-pip install opencv-python face_recognition numpy
-📂 Step 1: Add Known Faces
-Place clear face images in the dataset/ folder.
-
-File names should match the person's name (e.g., john_doe.jpg).
-Step 2: Encode Faces
-python encode_faces.py
-Step 3: Run the App
-python main.py
-
-
 ## 📸 Screenshots
 
 ### Add image data
@@ -84,3 +69,18 @@ python main.py
 
 ### Final output
 ![Final](5.PNG)
+
+### 📦 Install Dependencies
+
+```bash
+pip install opencv-python face_recognition numpy
+📂 Step 1: Add Known Faces
+Place clear face images in the dataset/ folder.
+
+File names should match the person's name (e.g., john_doe.jpg).
+Step 2: Encode Faces
+python encode_faces.py
+Step 3: Run the App
+python main.py
+
+
