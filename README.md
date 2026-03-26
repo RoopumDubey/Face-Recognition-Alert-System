@@ -64,3 +64,16 @@ python encode_faces.py
 Step 3: Run the App
 python main.py
 
+
+### 📹Screen Shots
+### 🔹 Add image data for attendence
+![Popup](1.jpeg)
+### 🔹 Terminal Snapshot how code runs
+![Popup](2.jpeg)
+### 🔹 Analyze user from database
+![Popup](3.jpeg)
+![Popup](4.jpeg)
+### 🔹 Warning message if any unknown face found
+![Popup](6.jpeg)
+### 🔹 Output file how attendance marked
+![Popup](5.PNG)
