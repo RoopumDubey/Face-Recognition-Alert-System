@@ -65,15 +65,22 @@ Step 3: Run the App
 python main.py
 
 
-### 📹Screen Shots
-### 🔹 Add image data for attendence
+## 📸 Screenshots
+
+### Add image data
 ![Popup](1.jpeg)
-### 🔹 Terminal Snapshot how code runs
-![Popup](2.jpeg)
-### 🔹 Analyze user from database
-![Popup](3.jpeg)
-![Popup](4.jpeg)
-### 🔹 Warning message if any unknown face found
-![Popup](6.jpeg)
-### 🔹 Output file how attendance marked
-![Popup](5.PNG)
+
+### Terminal Snapshot
+![Terminal](2.jpeg)
+
+### Analyze user
+![Analysis](3.jpeg)
+
+### More output
+![Output](4.jpeg)
+
+### Warning
+![Warning](6.jpeg)
+
+### Final output
+![Final](5.PNG)
